@@ -1,0 +1,12 @@
+.claude/
+__pycache__/
+*.pyc
+
+# photos de registres : non publiées
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
+*.tif
+*.tiff

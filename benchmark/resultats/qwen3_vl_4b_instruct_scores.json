@@ -1,0 +1,47 @@
+{
+  "modele": "qwen3-vl:4b-instruct",
+  "pages": {
+    "gauche": {
+      "secondes": 12.4,
+      "chargement_s": 0.2,
+      "lecture_image_s": 2.8,
+      "tokens_image_prompt": 2027,
+      "tokens_sortie": 330,
+      "tokens_par_s": 36.4,
+      "rappel": 0.597,
+      "precision": 0.618,
+      "reperes": "5/12",
+      "reperes_manques": [
+        "09H20",
+        "20-12-2021",
+        "quatre",
+        "Spark 7",
+        "Camon 12",
+        "Dianka",
+        "Habib Diallo"
+      ]
+    },
+    "droite": {
+      "secondes": 13.3,
+      "chargement_s": 0.3,
+      "lecture_image_s": 2.8,
+      "tokens_image_prompt": 2027,
+      "tokens_sortie": 358,
+      "tokens_par_s": 36.8,
+      "rappel": 0.59,
+      "precision": 0.617,
+      "reperes": "11/17",
+      "reperes_manques": [
+        "20/12/2021",
+        "65",
+        "0123",
+        "DL 1564 E",
+        "Bassirou Ndoye",
+        "Wilane"
+      ]
+    }
+  },
+  "vram_go": 3.88,
+  "part_gpu": "100 %",
+  "contexte": 6144
+}

@@ -1,0 +1,55 @@
+{
+  "modele": "glm-ocr",
+  "pages": [
+    {
+      "date": "",
+      "numero_page": "",
+      "mentions": [
+        {
+          "numero": "",
+          "heure": "",
+          "texte": "Le dernier pous d'claire est victime de\nvol dans le quit du 19 au 20alle con\nà Son domicile.\nLe on des volets ont entier par le fini\nde dérivée et ont emporté quatre\ntelephones portables (OL APhone 7+02\nSpark 7 et OL Carmon 12)\nMention portée toute fine utilise",
+          "annotations": ""
+        },
+        {
+          "numero": "0135",
+          "heure": "08H15",
+          "texte": "Vu\nMention non à Phure indiqué le dé-\nsélément de la B.R. Jones la Pouille\nde l'AFP dianka pour une patrouille\nApedestre dans votre secteur de compétence\nMention portée toute fine utilise",
+          "annotations": ""
+        },
+        {
+          "numero": "0136",
+          "heure": "09H20",
+          "texte": "Sue\nTocignet seule p le markier N°0130\ncle 20-du 22. 2021 regolise p des 10\nécloques par VI pour les\ninstructions, die clef de seVia\na nous per le cliché de porte\npre Coron con sus Romnie-\nBois Gourn Omair Alain D'allo-\nHabib D'allo- Ismail 30 -\nÉ/ Hodji D'allo- Pape Faye-",
+          "annotations": ""
+        }
+      ],
+      "texte_brut": "NUMERO\nDE LA\nMENTION\nHEURE\nOBJET\nLe dernier pous d'claire est victime de\nvol dans le quit du 19 au 20alle con\nà Son domicile.\nLe on des volets ont entier par le fini\nde dérivée et ont emporté quatre\ntelephones portables (OL APhone 7+02\nSpark 7 et OL Carmon 12)\nMention portée toute fine utilise\n\n0135\n08H 15\nVu\nMention non à Phure indiqué le dé-\nsélément de la B.R. Jones la Pouille\nde l'AFP dianka pour une patrouille\nApedestre dans votre secteur de compétence\nMention portée toute fine utilise\n\n0136\n09H 20\nSue\nTocignet seule p le markier N°0130\ncle 20-du 22. 2021 regolise p des 10\nécloques par VI pour les\ninstructions, die clef de seVia\na nous per le cliché de porte\npre Coron con sus Romnie-\nBois Gourn Omair Alain D'allo-\nHabib D'allo- Ismail 30 -\nÉ/ Hodji D'allo- Pape Faye-"
+    },
+    {
+      "date": "20/12/2021",
+      "numero_page": "65",
+      "mentions": [
+        {
+          "numero": "",
+          "heure": "",
+          "texte": "instruction\ndu droit\nde la\ndiction\nThierno Mouro Ba- Acian\nKandé - Mouro Diello-\ndamne Bakhrou-\nMentien a toutes Gino Ubler",
+          "annotations": ""
+        },
+        {
+          "numero": "0137",
+          "heure": "10H00",
+          "texte": "Suite à la mention 0123 du 19 décembre\n2021 relative à un véhicule immobilisé\nimmatriculé du 1504E pour transport illégal\nde Carburant avec une provenance britannique\nSur instruction du CMT avons laissé l'om-\nplication du dit véhicule après payement\namendes les forfaitaires de douze milliores\nsuivant PN 00805578/29749, 800181\ndu 20.12.2021 à 10H30.\nAvis ne limite au chéffeur responsable du\nnom de Bassinou Nolaye Pcn 1047791\ntel 772085366 Pour nous à reicier\nMention poste fins illite",
+          "annotations": ""
+        },
+        {
+          "numero": "0138",
+          "heure": "12H20",
+          "texte": "Restitution\ndo matériels\ndo fallé de\nTen\nSuite à la mention 0010 du 18/12/2021\nrelative à la Surtri de la Brigade\nde cuche du frou le porto ville moctume,\nmentionnons avoir permis sur le instituer\ndu sein Amidon Wilane en 1977.",
+          "annotations": ""
+        }
+      ],
+      "texte_brut": "20/12 / 2021\nNUMERO\nDE LA\nMENTION\nHEURE\nOBJET\n65\ninstruction\ndu droit\nde la\ndiction\nThierno Mouro Ba- Acian\nKandé - Mouro Diello-\ndamne Bakhrou-\nMentien a toutes Gino Ubler\n0137\n10H00\nSuite à la mention 0123 du 19 décembre\n2021 relative à un véhicule immobilisé\nimmatriculé du 1504E pour transport illégal\nde Carburant avec une provenance britannique\nSur instruction du CMT avons laissé l'om-\nplication du dit véhicule après payement\namendes les forfaitaires de douze milliores\nsuivant PN 00805578/29749, 800181\ndu 20.12.2021 à 10H30.\nAvis ne limite au chéffeur responsable du\nnom de Bassinou Nolaye Pcn 1047791\ntel 772085366 Pour nous à reicier\nMention poste fins illite\n0138\n12H20\nRestitution\ndo matériels\ndo fallé de\nTen\nSuite à la mention 0010 du 18/12/2021\nrelative à la Surtri de la Brigade\nde cuche du frou le porto ville moctume,\nmentionnons avoir permis sur le instituer\ndu sein Amidon Wilane en 1977."
+    }
+  ]
+}

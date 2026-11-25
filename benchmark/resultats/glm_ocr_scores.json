@@ -1,0 +1,40 @@
+{
+  "modele": "glm-ocr",
+  "pages": {
+    "gauche": {
+      "secondes": 7.6,
+      "chargement_s": 0.2,
+      "lecture_image_s": 2.9,
+      "tokens_image_prompt": 2581,
+      "tokens_sortie": 321,
+      "tokens_par_s": 75.3,
+      "rappel": 0.497,
+      "precision": 0.5,
+      "reperes": "9/12",
+      "reperes_manques": [
+        "20-12-2021",
+        "Camon 12",
+        "Habib Diallo"
+      ]
+    },
+    "droite": {
+      "secondes": 8.8,
+      "chargement_s": 0.2,
+      "lecture_image_s": 3.0,
+      "tokens_image_prompt": 2581,
+      "tokens_sortie": 399,
+      "tokens_par_s": 76.2,
+      "rappel": 0.59,
+      "precision": 0.629,
+      "reperes": "14/17",
+      "reperes_manques": [
+        "10H40",
+        "DL 1564 E",
+        "Bassirou Ndoye"
+      ]
+    }
+  },
+  "vram_go": 2.26,
+  "part_gpu": "100 %",
+  "contexte": 8192
+}
